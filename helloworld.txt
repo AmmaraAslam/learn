@@ -1,2 +1,3 @@
 ammara has install git using sudo commands.
 how to ad changes
+how to commit
